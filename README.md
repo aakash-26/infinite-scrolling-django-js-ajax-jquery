@@ -9,10 +9,14 @@ I Steps :
   
   Results :
   
-  ![Screenshot from 2020-10-28 03-05-43](https://user-images.githubusercontent.com/43741675/101043783-b014e480-35a4-11eb-8fca-a08c8e9445a5.png)
-  
-  
-![Screenshot from 2020-10-28 03-05-31](https://user-images.githubusercontent.com/43741675/101043803-b4d99880-35a4-11eb-882d-0f46e655fe4f.png)
+ 1.
+ ![Screenshot from 2020-10-28 03-05-31](https://user-images.githubusercontent.com/43741675/101044089-008c4200-35a5-11eb-96d2-9f2498519310.png)
+ 
+ 2.
+ 
+![Screenshot from 2020-10-28 03-05-43](https://user-images.githubusercontent.com/43741675/101044164-0e41c780-35a5-11eb-8004-34a77fa3534b.png)
 
-![Screenshot from 2020-10-28 03-05-31](https://user-images.githubusercontent.com/43741675/101043772-ac815d80-35a4-11eb-9d5e-309ecdd7ecf6.png)
+3.
+
+![Screenshot from 2020-10-28 03-05-26](https://user-images.githubusercontent.com/43741675/101044212-1a2d8980-35a5-11eb-846c-7323dfccb40a.png)
   
